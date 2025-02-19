@@ -6,14 +6,14 @@ This is a simple password manager and generator built with Tkinter. It allows us
 
 - Generates strong passwords with a mix of letters, numbers, and symbols.
 - Copies generated passwords to the clipboard for easy pasting.
-- Saves credentials (website, email/username, and password) to a local `data.txt` file.
+- Saves credentials (website, email/username, and password) to a local `data.json` file.
 - Provides a graphical user interface (GUI) for easy interaction.
 
 **Usage**
 
 1. Enter the website, email/username, and password.
 2. Click "Generate Password" to create a secure password.
-3. Click "Add" to save the credentials to `data.txt`.
+3. Click "Add" to save the credentials to `data.json`.
 
 **Requirements**
 
